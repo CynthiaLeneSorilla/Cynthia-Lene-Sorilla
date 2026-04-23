@@ -1,10 +1,10 @@
 ## Hi there!✋
 My name is Cynthia Lene Sorilla. I'm starting my Data Analytics journey! Nice to meet you
 
-## Current Role
+## Current Role 👩‍🎓
 BSIS student | Business Analytics Major
 
-## Interest
+## Interest 💗
 - Business Analytics
 - Data Visualization
 - Business Intelligence
@@ -12,8 +12,8 @@ BSIS student | Business Analytics Major
 - Data-Driven Decision Making
 - Continuous Learning
 
-## My Goals
+## My Goals 🔍
 My goal is to become a skilled Business Analytics professional who can help organizations improve performance and make strategic decisions through data.
 
-## GitHub Streak Stats
+## GitHub Streak Stats 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CynthiaLeneSorilla&theme=tokyonight)
