@@ -14,3 +14,6 @@ BSIS student | Business Analytics Major
 
 ## My Goals
 My goal is to become a skilled Business Analytics professional who can help organizations improve performance and make strategic decisions through data.
+
+## GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cynthia-Lene-Sorilla&theme=tokyonight)
