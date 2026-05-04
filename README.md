@@ -1,9 +1,6 @@
 ## Hi there!✋
 My name is Cynthia. I'm starting my Data Analytics journey! Nice to meet you
 
-## Current Role 👩‍🎓
-BSIS student | Business Analytics Major
-
 ## Interest 💗
 - Business Analytics
 - Data Visualization
